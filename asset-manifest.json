@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kunflix/static/css/main.b11a1e2b.chunk.css",
+    "main.css": "/kunflix/static/css/main.fdf46ef0.chunk.css",
     "main.js": "/kunflix/static/js/main.04c751dd.chunk.js",
     "main.js.map": "/kunflix/static/js/main.04c751dd.chunk.js.map",
     "runtime-main.js": "/kunflix/static/js/runtime-main.5613d241.js",
@@ -10,13 +10,13 @@
     "static/js/3.815ff87f.chunk.js": "/kunflix/static/js/3.815ff87f.chunk.js",
     "static/js/3.815ff87f.chunk.js.map": "/kunflix/static/js/3.815ff87f.chunk.js.map",
     "index.html": "/kunflix/index.html",
-    "static/css/main.b11a1e2b.chunk.css.map": "/kunflix/static/css/main.b11a1e2b.chunk.css.map",
+    "static/css/main.fdf46ef0.chunk.css.map": "/kunflix/static/css/main.fdf46ef0.chunk.css.map",
     "static/js/2.05f4c54f.chunk.js.LICENSE.txt": "/kunflix/static/js/2.05f4c54f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5613d241.js",
     "static/js/2.05f4c54f.chunk.js",
-    "static/css/main.b11a1e2b.chunk.css",
+    "static/css/main.fdf46ef0.chunk.css",
     "static/js/main.04c751dd.chunk.js"
   ]
 }
